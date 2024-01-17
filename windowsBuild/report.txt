@@ -1,0 +1,84 @@
+Container 'C:\Users\physi\OneDrive\Documents\keyroom\builds\windowsBuild\Scene002.vs'
+-------------------------------------------------------------------------------
+graphics/room/keyroom2aB.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\physi\OneDrive\Documents\keyroom\builds\windowsBuild\Video000.vv'
+-------------------------------------------------------------------------------
+videos/doorwalk.mkv
+--------------------------------------------------------------------------------
+Container 'C:\Users\physi\OneDrive\Documents\keyroom\builds\windowsBuild\Scene004.vs'
+-------------------------------------------------------------------------------
+graphics/items/Sprite-0001.png
+graphics/room/keyroom4d.png
+graphics/room/keyroom4a.png
+graphics/room/keyroom4b.png
+graphics/room/keyroom4c.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\physi\OneDrive\Documents\keyroom\builds\windowsBuild\Video001.vv'
+-------------------------------------------------------------------------------
+videos/dooropen.mkv
+--------------------------------------------------------------------------------
+Container 'C:\Users\physi\OneDrive\Documents\keyroom\builds\windowsBuild\Scene000.vs'
+-------------------------------------------------------------------------------
+music/fantasi.ogg
+graphics/room/keyroom1a.png
+graphics/room/keyroom1b.png
+graphics/room/keyroom1c.png
+graphics/room/keyroom1d.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\physi\OneDrive\Documents\keyroom\builds\windowsBuild\Scene001.vs'
+-------------------------------------------------------------------------------
+soundeffects/door.ogg
+graphics/room/keyroom2a.png
+graphics/room/keyroom2b.png
+graphics/room/keyroom2c.png
+graphics/room/keyroom2d.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\physi\OneDrive\Documents\keyroom\builds\windowsBuild\Scene005.vs'
+-------------------------------------------------------------------------------
+graphics/room/darkvoid.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\physi\OneDrive\Documents\keyroom\builds\windowsBuild\Scene003.vs'
+-------------------------------------------------------------------------------
+graphics/room/keyroom3a.png
+graphics/room/keyroom3b.png
+graphics/room/keyroom3c.png
+graphics/room/keyroom3d.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\physi\OneDrive\Documents\keyroom\builds\windowsBuild\Interfaces.vi'
+-------------------------------------------------------------------------------
+graphics/inventory/Untitled.png
+--------------------------------------------------------------------------------
+Container 'C:\Users\physi\OneDrive\Documents\keyroom\builds\windowsBuild\keyroomtest.vis'
+-------------------------------------------------------------------------------
+graphics/cursor/gcuract.png
+graphics/cursor/gcur.png
+graphics/cursor/left.png
+graphics/cursor/right.png
+graphics/cursor/gcur_walk.png
+game.veb
+--------------------------------------------------------------------------------
+
+Containers:
+
+
+Interfaces.vi 0 
+
+Scene000.vs 0 room1
+
+Scene001.vs 2 room2
+
+Scene002.vs 5 room2a
+
+Scene003.vs 3 room3
+
+Scene004.vs 4 room4
+
+Scene005.vs 6 darkvoid
+
+Video000.vv 123 Play video 'doorwalk.mkv'
+
+Video001.vv 100 Play video 'dooropen.mkv'
+
+keyroomtest.vis 0 
+
